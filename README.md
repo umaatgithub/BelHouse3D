@@ -40,7 +40,7 @@
 
 
 ## Citation
-If you find this work helpful, please kindly consider citing our paper:
+If you find this work helpful, please consider citing our paper:
 
 ```bibtex
 
