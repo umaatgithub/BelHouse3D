@@ -14,3 +14,24 @@
   </p>
 
 </p>
+
+
+## Outline
+
+
+## Data Preparation
+
+
+## Benchmark
+
+### Fully Supervised 3D Segmentation
+
+### Few-Shot 3D Segmentation
+
+
+## Citation
+If you find this work helpful, please kindly consider citing our paper:
+
+```bibtex
+
+```
