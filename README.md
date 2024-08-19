@@ -12,7 +12,7 @@
   <sup>2</sup>3Frog
   </p>
 
-  <img src="docs/figs/teaser.png" align="center" width="90%">
+  <img src="docs/figs/teaser.png" align="center" width="100%">
 
   <details>
     <summary>
