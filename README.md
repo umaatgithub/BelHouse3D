@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/figs/teaser.png" align="center" width="80%">
+  <img src="docs/figs/teaser.png" align="center" width="90%">
   
   <h3 align="center"><strong>BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation</strong></h3>
 
@@ -17,7 +17,9 @@
 
 
 ## Outline
-
+- [Data Preparation](#data-preparation)
+- [Benchmark](#benchmark)
+- [Citation](#citation)
 
 ## Data Preparation
 
