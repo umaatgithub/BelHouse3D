@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="docs/figs/teaser.png" align="center" width="90%">
   
   <h3 align="center"><strong>BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation</strong></h3>
 
@@ -13,12 +12,14 @@
   <sup>2</sup>3Frog
   </p>
 
-<details>
-  <summary>
-  <font size="+1">Abstract</font>
-  </summary>
-  Abstract 
-</details>
+  <img src="docs/figs/teaser.png" align="center" width="90%">
+
+  <details>
+    <summary>
+    <font size="+1">Abstract</font>
+    </summary>
+    Abstract 
+  </details>
 
 </p>
 
