@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="docs/figs/ood.png" align="center" width="80">
+  
   <h3 align="center"><strong>BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation</strong></h3>
 
   <p align="center">
