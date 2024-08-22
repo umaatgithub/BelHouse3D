@@ -47,13 +47,5 @@ If you find this work helpful, please consider citing:
 ```
 
 ```bibtex
-@data{ZS8D6K_2024,
-author = {Raman Kumar, Umamaheswaran and Hannaert, Jurgen},
-publisher = {KU Leuven RDR},
-title = {{BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation}},
-year = {2024},
-version = {DRAFT VERSION},
-doi = {10.48804/ZS8D6K},
-url = {https://doi.org/10.48804/ZS8D6K}
-}
+
 ```
