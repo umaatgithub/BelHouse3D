@@ -39,7 +39,7 @@ code_root/
     └── belhouse3d/
         ├── raw/
           ├── belhouse3d_classnames.txt
-        	├── IID-nonoccluded/
+          ├── IID-nonoccluded/
           └── OOD-occluded/
         └── processed/
           ├── fsl/
