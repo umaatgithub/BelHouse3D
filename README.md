@@ -42,8 +42,8 @@ code_root/
           ├── IID-nonoccluded/
           └── OOD-occluded/
         └── processed/
-          ├── fsl/
-            ├── test/
+          └── fsl/
+            └── test/
               ├── IID-nonoccluded/
               └── OOD-occluded/
         	
