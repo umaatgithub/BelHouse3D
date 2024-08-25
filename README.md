@@ -27,16 +27,37 @@
 ## Outline
 - [Data Preparation](#data-preparation)
 - [Benchmark](#benchmark)
+- [License](#license)
 - [Citation](#citation)
 
 ## Data Preparation
+Please download [BelHouse3D dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/ZS8D6K) and organize them as following:
 
+```
+code_root/
+└── data/
+    └── belhouse3d/
+        ├── raw/
+          ├── belhouse3d_classnames.txt
+        	├── IID-nonoccluded/
+          └── OOD-occluded/
+        └── processed/
+          ├── fsl/
+            ├── test/
+              ├── IID-nonoccluded/
+              └── OOD-occluded/
+        	
+```
 
 ## Benchmark
 
 ### Fully Supervised 3D Segmentation
 
 ### Few-Shot 3D Segmentation
+
+## License
+
+This project is released under the [MIT license](./LICENSE).
 
 
 ## Citation
