@@ -25,10 +25,17 @@
 
 
 ## Outline
+- [Installation](#installation)
 - [Data Preparation](#data-preparation)
 - [Benchmark](#benchmark)
 - [License](#license)
 - [Citation](#citation)
+- [Acknowledgement](#acknowledgement)
+
+
+## Installation
+
+
 
 ## Data Preparation
 Please download [BelHouse3D dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/ZS8D6K) and organize them as following:
@@ -84,3 +91,7 @@ If you find this work helpful, please consider citing:
 ```bibtex
 
 ```
+
+
+## Acknowledgement
+We thank ... for sharing their source code.
