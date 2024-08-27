@@ -34,18 +34,32 @@
 Please download [BelHouse3D dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/ZS8D6K) and organize them as following:
 
 ```
-code_root/
+code_root
 └── data/
-    └── belhouse3d/
-        ├── raw/
-          ├── belhouse3d_classnames.txt
-          ├── IID-nonoccluded/
-          └── OOD-occluded/
-        └── processed/
-          └── fsl/
+   └── belhouse3d/
+      ├── raw/
+      |  ├── belhouse3d_classnames.txt
+      |  |
+      |  ├── IID-nonoccluded/
+      |  |  ├── House1/
+      |  |  ├── :
+      |  |  └── House32/
+      |  | 
+      |  └── OOD-occluded/
+      |     ├── House27/
+      |     ├── :
+      |     └── House32/
+      |
+      └── processed/
+         └── fsl/
             └── test/
-              ├── IID-nonoccluded/
-              └── OOD-occluded/
+               ├── IID-nonoccluded/
+               |  ├── meta/
+               |  └── test/
+               |
+               └── OOD-occluded/
+                  ├── meta/
+                  └── test/
         	
 ```
 
