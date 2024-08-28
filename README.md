@@ -69,15 +69,10 @@ code_root
                   └── test/
 ```
 ### Process data for fully-supervised semantic segmentation
-* IID data
 ```
-python3 dataloader/semseg/process_belhouse3d.py --config './dataloader/semseg/process_belhouse3d_iid.yaml'
+sh process_data_semseg.sh
 ```
-* OOD data
-```
-python3 dataloader/semseg/process_belhouse3d.py --config './dataloader/semseg/process_belhouse3d_ood.yaml'
-```
-New folders created after running the scripts
+New folders created after running the script
 ```
 code_root
 └── data/
