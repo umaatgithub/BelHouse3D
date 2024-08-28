@@ -113,11 +113,19 @@ This project is released under the [MIT license](./LICENSE).
 If you find this work helpful, please consider citing:
 
 ```bibtex
-
+TO-BE PUBLISHED
 ```
 
 ```bibtex
-
+@data{ZS8D6K_2024,
+author = {Raman Kumar, Umamaheswaran and Hannaert, Jurgen},
+publisher = {KU Leuven RDR},
+title = {{BelHouse3D: A Dataset for 3D Indoor Scene Point Clouds}},
+year = {2024},
+version = {V1},
+doi = {10.48804/ZS8D6K},
+url = {https://doi.org/10.48804/ZS8D6K}
+}
 ```
 
 
