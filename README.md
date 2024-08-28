@@ -67,7 +67,6 @@ code_root
                └── OOD-occluded/
                   ├── meta/
                   └── test/
-        	
 ```
 
 ## Benchmark
