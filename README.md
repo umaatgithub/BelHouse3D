@@ -77,6 +77,22 @@ python3 dataloader/semseg/process_belhouse3d.py --config './dataloader/semseg/pr
 ```
 python3 dataloader/semseg/process_belhouse3d.py --config './dataloader/semseg/process_belhouse3d_ood.yaml'
 ```
+New folders created after running the scripts
+code_root
+└── data/
+   └── belhouse3d/
+      └── processed/
+         └── semseg/
+            └── IID-nonoccluded/
+            |  ├── meta/
+            |  ├── train/
+            |  ├── val/
+            |  └── test/
+            |
+            └── OOD-occluded/
+               ├── meta/
+               └── test/
+```
 
 ### Process data for few-shot semantic segmentation
 
