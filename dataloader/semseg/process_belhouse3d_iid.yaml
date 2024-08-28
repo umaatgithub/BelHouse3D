@@ -1,0 +1,23 @@
+DATA:
+    META_FILE: './data/belhouse3d/raw/belhouse3d_classnames.txt'
+    RAW_DIR: './data/belhouse3d/raw/IID-nonoccluded/'
+    PROCESSED_DIR: './data/belhouse3d/processed/semseg/IID-nonoccluded/'
+
+BLOCK:
+    SIZE: 1    # meter x meter x meter
+    STRIDE: 1    # meter
+    MIN_NPTS: 1500    # min no. pts to keep the block
+    NPTS: 2048
+
+TRAIN:
+    HOUSES: ['House1','House2','House3','House4','House5','House6','House7',
+            'House8','House9','House10','House11','House12','House13','House14',
+            'House15','House16','House17','House18','House19','House20']
+
+VAL:
+    NPTS: 2048
+    HOUSES: ['House21','House22','House23','House24','House25','House26']
+
+TEST:
+    NPTS: 2048
+    HOUSES: ['House27','House28','House29','House30','House31','House32']
