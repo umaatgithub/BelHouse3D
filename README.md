@@ -38,7 +38,7 @@
 
 
 ## Data Preparation
-Please download [BelHouse3D dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/ZS8D6K) and organize them as following:
+Please download [BelHouse3D dataset](https://doi.org/10.48804/ZS8D6K) and organize them as following:
 
 ```
 code_root
