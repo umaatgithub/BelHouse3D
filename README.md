@@ -25,13 +25,20 @@
 
 
 ## Outline
+- [Installation](#installation)
 - [Data Preparation](#data-preparation)
 - [Benchmark](#benchmark)
 - [License](#license)
 - [Citation](#citation)
+- [Acknowledgement](#acknowledgement)
+
+
+## Installation
+
+
 
 ## Data Preparation
-Please download [BelHouse3D dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/ZS8D6K) and organize them as following:
+Please download [BelHouse3D dataset](https://doi.org/10.48804/ZS8D6K) and organize them as following:
 
 ```
 code_root
@@ -60,8 +67,31 @@ code_root
                └── OOD-occluded/
                   ├── meta/
                   └── test/
-        	
 ```
+### Process data for fully-supervised semantic segmentation
+```
+sh process_data_semseg.sh
+```
+New folders created after running the script
+```
+code_root
+└── data/
+   └── belhouse3d/
+      └── processed/
+         └── semseg/
+            └── IID-nonoccluded/
+            |  ├── meta/
+            |  ├── train/
+            |  ├── val/
+            |  └── test/
+            |
+            └── OOD-occluded/
+               ├── meta/
+               └── test/
+```
+
+### Process data for few-shot semantic segmentation
+
 
 ## Benchmark
 
@@ -78,9 +108,21 @@ This project is released under the [MIT license](./LICENSE).
 If you find this work helpful, please consider citing:
 
 ```bibtex
-
+TO-BE PUBLISHED
 ```
 
 ```bibtex
-
+@data{ZS8D6K_2024,
+author = {Raman Kumar, Umamaheswaran and Hannaert, Jurgen},
+publisher = {KU Leuven RDR},
+title = {{BelHouse3D: A Dataset for 3D Indoor Scene Point Clouds}},
+year = {2024},
+version = {V1},
+doi = {10.48804/ZS8D6K},
+url = {https://doi.org/10.48804/ZS8D6K}
+}
 ```
+
+
+## Acknowledgement
+We thank ... for sharing their source code.
