@@ -105,11 +105,13 @@ This project is released under the [MIT license](./LICENSE).
 
 
 ## Citation
-If you find this work helpful, please consider citing:
+If you find this work helpful, please consider citing the paper:
 
 ```bibtex
 TO-BE PUBLISHED
 ```
+
+If you have utilized the dataset, please consider citing the dataset along with the paper:
 
 ```bibtex
 @data{ZS8D6K_2024,
