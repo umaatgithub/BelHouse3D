@@ -115,7 +115,7 @@ If you have utilized the dataset, please consider citing the dataset along with 
 
 ```bibtex
 @data{ZS8D6K_2024,
-author = {Raman Kumar, Umamaheswaran and Hannaert, Jurgen},
+author = {Raman Kumar, Umamaheswaran and Hannaert, Jurgen and Vandewalle, Patrick},
 publisher = {KU Leuven RDR},
 title = {{BelHouse3D: A Dataset for 3D Indoor Scene Point Clouds}},
 year = {2024},
