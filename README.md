@@ -108,7 +108,15 @@ This project is released under the [MIT license](./LICENSE).
 If you find this work helpful, please consider citing the paper:
 
 ```bibtex
-TO-BE PUBLISHED
+@misc{kumar2024belhouse3dbenchmarkdatasetassessing,
+      title={BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation}, 
+      author={Umamaheswaran Raman Kumar and Abdur Razzaq Fayjie and Jurgen Hannaert and Patrick Vandewalle},
+      year={2024},
+      eprint={2411.13251},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.13251}, 
+}
 ```
 
 If you have utilized the dataset, please consider citing the dataset along with the paper:
